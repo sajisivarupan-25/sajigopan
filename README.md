@@ -16,7 +16,9 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 ## Certifications
 <div>
 
-[View my certificate](https://learn.microsoft.com/api/credentials/share/en-gb/SajigopanSivarupan-1323/7B1C7DE642F7691?sharingId=E1430163903D2861)
+## 🎓 Certifications
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — [View Certficated](https://learn.microsoft.com/api/credentials/share/en-gb/SajigopanSivarupan-1323/7B1C7DE642F7691?sharingId=E1430163903D2861)
 
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?logo=comptia&logoColor=white)](https://www.credly.com/badges/ba305a43-a066-431e-8cfb-d508d0f13a88)
