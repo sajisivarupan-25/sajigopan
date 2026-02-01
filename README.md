@@ -23,6 +23,6 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
 
 
-[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?logo=google&logoColor=white)](https://coursera.org/share/4fcca0fc79deb37e2be365e97efa4ca0)
+[![Google Cybersecurity Professional Certificate](https://coursera.org/share/4fcca0fc79deb37e2be365e97efa4ca0)
 
 </div>
