@@ -11,7 +11,7 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 
 | Title                                                     | Projects       |
 |-----------------------------------------------|----------------------------|
-| Google Cybersecurity Professional Certificate | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">Worksheets</a>|
+| Google Cybersecurity Professional Course | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">Worksheets</a>|
 
 ## Certifications
 
