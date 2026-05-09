@@ -1,5 +1,5 @@
-<h1>Hello, I'm Sajigopan Sivarupan</h1>
-<a href="https://www.linkedin.com/in/sajisivarupan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hello, I'm Sajigopan Sivarupan</h1> <a href="https://www.linkedin.com/in/sajisivarupan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 
