@@ -1,13 +1,19 @@
-# Hello, I'm Sajigopan Sivarupan
+<h1>Hello, I'm Sajigopan Sivarupan</h1>
 <a href="https://www.linkedin.com/in/sajisivarupan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
 ## Objective
 
-Welcome to my portfolio, I am a self taught professional who is passionate about information security and learning about the latest trends and technologies that help keep the world safe from threats. This will showcase my dedication and journey into landing my first role in this field.
+Welcome to my portfolio, I'm an aspiring Cybersecurity Analyst with a strong foundation in Security Operations, supported by CompTIA Security+, Microsoft Azure Fundamentals (AZ-900), and the Google Cybersecurity Professional Certificate. Passionate about threat detection, incident response, and building secure systems through hands-on technical practice and continuous self-study.
+ 
+Developed practical experience through structured home labs focused on SOC workflows, SIEM log analysis, and incident response simulation. Comfortable working with security data to identify Indicators of Compromise (IoCs), map attacker behaviour using the MITRE ATT&CK framework, and support structured investigation processes. Experienced in vulnerability assessment using CVE/CVSS scoring and applying risk-based prioritisation to security issues.
+ 
+Hands-on technical exposure includes configuring identity and access management environments using Microsoft Entra ID, implementing Multi-Factor Authentication (MFA), Conditional Access, and Role-Based Access Control (RBAC) within Azure. Strong understanding of core cybersecurity principles including Zero Trust architecture, the CIA triad, and industry frameworks such as NIST CSF.
+ 
+Technically proficient in Python for basic security automation, SQL for data querying, and tools such as Wireshark and Linux command-line environments for network and log analysis. Focused on developing real-world SOC Analyst capabilities including monitoring, triage, and incident response workflows.
+ 
 
-## Experience
 
 | Title                                                     | Projects       |
 |-----------------------------------------------|----------------------------|
