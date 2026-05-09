@@ -18,7 +18,7 @@ Technically proficient in Python for basic security automation, SQL for data que
 
 | Title | Project |
 | :--- | :--- |
-| **Google Cybersecurity Professional Course** | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">SOC Lab</a> |
+| **Google Cybersecurity Professional Course** | <a href="https://github.com/sajisivarupan-25/SOC-Lab">SOC Lab</a> |
 
 <h2> Qualifications </h2>
 
