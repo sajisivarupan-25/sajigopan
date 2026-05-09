@@ -15,8 +15,10 @@ Hands-on technical exposure includes configuring identity and access management 
 Technically proficient in Python for basic security automation, SQL for data querying, and tools such as Wireshark and Linux command-line environments for network and log analysis. Focused on developing real-world SOC Analyst capabilities including monitoring, triage, and incident response workflows.
  
 <h2> Home Labs </h2>     
-| Title | 
-<a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">SOC Lab</a> |
+
+| Title | Project |
+| :--- | :--- |
+| **SOC Lab** | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">VIEW</a> |
 
 <h2> Qualifications </h2>
 
